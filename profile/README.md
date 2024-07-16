@@ -11,6 +11,6 @@
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
 
-Makers of [WhatsNew.co](https://whatsnew.co), [TIL.dev](https://til.dev) and few other apps. 
+Building [One Simple Blog](https://onesimpleblog.com), a minimalist blogging app with a twist ✨. 
 
-Building a world-class blogging experience — [One Simple Blog](https://onesimpleblog.com) 📝
+Noodling with next two app ideas: [WhatsNew.co](https://whatsnew.co), [TIL.DEV](https://til.dev)
